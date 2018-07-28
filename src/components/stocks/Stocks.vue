@@ -17,6 +17,7 @@ import Stock from './Stock.vue'
                     {id: 4, name: 'Twitter', price:11},
                 ]
             }
+            
         },
         components: {
             appStock:  Stock
