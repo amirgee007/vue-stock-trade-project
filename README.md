@@ -2,7 +2,7 @@
 
 > A Vue.js project by Amir
 
-![Gif](https://github.com/amirgee007/vue-stock-trade-project/amir.gif)
+![Gif](https://github.com/amirgee007/vue-stock-trade-project/blob/master/amir.giff)
 
 ## Build Setup
 
