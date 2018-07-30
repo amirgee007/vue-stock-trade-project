@@ -2,6 +2,8 @@
 
 > A Vue.js project by Amir
 
+![Gif](https://github.com/amirgee007/vue-stock-trade-project/amir.gif)
+
 ## Build Setup
 
 ``` bash
